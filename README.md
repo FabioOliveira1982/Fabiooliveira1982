@@ -1,9 +1,28 @@
 # Olá, eu sou Fabio A Oliveira 👋
 
-🎓 Estudante de Ciência da Computação no Centro Universitário FMU  
+🎓 Estudante de Gestão Tecnologia da Informação   no Centro Universitário FMU  
 💻 Desenvolvedor em formação  
 🚀 Focado em Desenvolvimento Web  
 🎯 Em busca de oportunidade de estágio na área de Tecnologia da Informação  
+
+
+
+
+<p align="left">
+  <a href="https://github.comFabioOliveira1982">
+    <img src="https://img.shields.io/badge/GitHub-FabioOliveira1982-181717?style=for-the-badge&logo=github" />
+  </a>
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -18,7 +37,7 @@ Acredito que consistência, dedicação e aprendizado contínuo são a base para
 ---
 
 
-## 💻 Tecnologias
+## 💻  Tecnologias em aprendizado
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -26,31 +45,6 @@ Acredito que consistência, dedicação e aprendizado contínuo são a base para
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
-
-## 🧠 Tecnologias em aprendizado
-
-- HTML5  
-- CSS3  
-- Java  
-- Lógica de Programação  
-- Git e GitHub  
-
----
-
-
-
-## 📊 Estatísticas do GitHub
-
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?Fabioolivera1982=SEUUSUARIO&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Fabioolivera1982=SEUUSUARIO&layout=compact)
-
-
-
-
-
-
-
 
 
 
