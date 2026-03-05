@@ -1,30 +1,20 @@
-# Olá, eu sou Fabio A Oliveira 👋
-
-🎓 Estudante de Gestão Tecnologia da Informação   no Centro Universitário FMU  
-💻 Desenvolvedor em formação  
-🚀 Focado em Desenvolvimento Web  
-🎯 Em busca de oportunidade de estágio na área de Tecnologia da Informação  
 
 
 
-
-<p align="left">
-  <a href="https://github.com/FabioOliveira1982">
-    <img src="https://img.shields.io/badge/GitHub-FabioOliveira1982-181717?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Fabio%20A%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 
-## 📊 Estatísticas do GitHub
 
-<p>
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=FabioOliveira1982&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioOliveira1982&layout=compact&theme=tokyonight"
-/>
+
+
+
+
+<h3 align="center">💻 Desenvolvedor em Formação</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Aprendendo+HTML+CSS+e+Java;Em+busca+de+uma+oportunidade+de+estágio+TI"/>
 </p>
 
 
@@ -34,7 +24,34 @@
 
 
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 👨‍💻 Sobre mim
 
@@ -44,7 +61,7 @@ Tenho evoluído constantemente em lógica de programação, desenvolvimento web 
 
 Acredito que consistência, dedicação e aprendizado contínuo são a base para o crescimento na área de TI.
 
----
+
 
 
 ## 💻  Tecnologias em aprendizado
@@ -56,6 +73,20 @@ Acredito que consistência, dedicação e aprendizado contínuo são a base para
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
+
+
+
+
+
+## 🔥 Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fabiooliveira1982&theme=tokyonight)
+
+
+
+## 📈 Gráfico de Atividade
+
+![Fabio Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night)
 
 
 
@@ -74,9 +105,51 @@ Conquistar uma oportunidade de estágio ou posição júnior em Tecnologia da In
 
 ## 📫 Contato
 
-🔗 LinkedIn: (coloque aqui o link do seu LinkedIn)  
-📧 Email: (coloque seu email profissional)
+🔗 LinkedIn: (www.linkedin.com/in/
+fabio-oliveira-3bb133312)  
+📧 Email: (fabio.oliveira@gmail.com)
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
