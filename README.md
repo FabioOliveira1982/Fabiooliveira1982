@@ -1,34 +1,12 @@
-
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Fabio%20A%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-
-
-
-
-
 
 <h3 align="center">💻 Desenvolvedor em Formação</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Aprendendo+HTML+CSS+e+Java;Em+busca+de+uma+oportunidade+de+estágio+TI"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p align="left">
   <a href="https://github.com/FabioOliveira1982/">
@@ -38,7 +16,12 @@
 
 
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabiooliveira1982&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiooliveira&layout=compact&theme=tokyonight" />
+</p>
 
 
 
