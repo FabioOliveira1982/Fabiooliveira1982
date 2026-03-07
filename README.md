@@ -14,22 +14,6 @@
   </a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 👨‍💻 Sobre mim
 
 Aos 43 anos, estou em transição de carreira para a área de Tecnologia, trazendo maturidade, responsabilidade e disciplina para minha nova jornada profissional.
@@ -39,20 +23,22 @@ Tenho evoluído constantemente em lógica de programação, desenvolvimento web 
 Acredito que consistência, dedicação e aprendizado contínuo são a base para o crescimento na área de TI.
 
 
-
-
 ## 💻  Tecnologias em aprendizado
 
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
+
 </p>
-
-
-
-
 
 
 ## 🔥 Contribuições
