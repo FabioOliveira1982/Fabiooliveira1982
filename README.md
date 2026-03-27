@@ -5,7 +5,7 @@
 <h3 align="center">💻 Desenvolvedor em Formação</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Gestão+da+TI;Aprendendo+HTML+CSS+e+Java;Em+busca+de+uma+oportunidade+de+estágio+TI"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Gestão+de+TI;Aprendendo+HTML+CSS+e+Java;Em+busca+de+uma+oportunidade+de+estágio+TI"/>
 </p>
 
 <p align="left">
